@@ -16,12 +16,12 @@ function sayHiToGrandma(string)
   var d = 'I love you, too.'
   
   var uC = "HELLO!"
-  var lc = "hello!"
-  var mixedCase = 'Hi there!'
+  var lC = "hello!"
+  var mC = 'Hi there!'
   
-  if(string === string.toUpperCase)  return a
-  else if(string === string.toLowerCase)  return b
-  else if(string === c) return d
+  if(string === uC)  return a
+  else if(string === lC)  return b
+  else if(string === mC) return d
 }
 
 function logShout(string)

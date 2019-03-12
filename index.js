@@ -21,7 +21,7 @@ function sayHiToGrandma(string)
   
   if(string === uC)  return a
   else if(string === lC)  return b
-  else if(string === mC) return d
+  else if(string === c) return d
 }
 
 function logShout(string)

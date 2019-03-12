@@ -17,14 +17,14 @@ function sayHiToGrandma(string)
 function logShout(string)
 {
   console.log(string.toUpperCase)
-  return null
+  return string.toUpperCase
   //return console.log(string.toUpperCase)
 }
 
 function logWhisper(string)
 {
   console.log(string.toLowerCase)
-  return null
+  return string.toLowerCase
   //return console.log(string.toLowerCase)
 }
 

@@ -27,3 +27,6 @@ function logWhisper(string)
   return null
   //return console.log(string.toLowerCase)
 }
+
+logShout('Hello')
+lowWhisper('Hello')

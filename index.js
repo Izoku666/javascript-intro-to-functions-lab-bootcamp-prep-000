@@ -18,8 +18,8 @@ function sayHiToGrandma(string)
   var uC = "HELLO!"
   var lC = "hello!"
   
-  if(string === shout)  return a
-  else if(string === whisper)  return b
+  if(string === shout("hello"))  return a
+  else if(string === whisper("hello"))  return b
   else if(string === c) return d
 }
 

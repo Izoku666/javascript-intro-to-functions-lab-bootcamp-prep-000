@@ -33,10 +33,3 @@ function logWhisper(string)
 {
   console.log(string.toLowerCase)
 }
-
-shout(hello)
-whisper(hello)
-
-
-logShout('Hello')
-lowWhisper('Hello')

@@ -28,9 +28,11 @@ function logShout(string)
   var newString = string.toUpperCase()
   
   console.log(newString)
+  return newString
 }
 
 function logWhisper(string)
 {
   console.log(string.toLowerCase())
+  return string.toLowerCase
 }

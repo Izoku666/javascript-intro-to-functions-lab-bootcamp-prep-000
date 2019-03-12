@@ -13,9 +13,9 @@ var c = 'I love you, Grandma.'
 var d = 'I love you, too.'
 function sayHiToGrandma(string)
 {
-  if(string === string.toUpperCase)  return '"YES INDEED!"'
-  else if(string === string.toLowerCase)  return '"I can\'t hear you!"'
-  else if(string ==='"I love you, Grandma."') return '"I love you, too."'
+  if(string === string.toUpperCase)  return a
+  else if(string === string.toLowerCase)  return b
+  else if(string === c) return d
 }
 
 function logShout(string)

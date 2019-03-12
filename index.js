@@ -25,7 +25,8 @@ function sayHiToGrandma(string)
 
 function logShout(string)
 {
-  console.log(string.toUpperCase)
+  var newString = string.toUpperCase
+  console.log(newString)
 }
 
 function logWhisper(string)

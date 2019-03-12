@@ -6,6 +6,11 @@ function whisper(string){
   return string.toLowerCase()
 }
 
+
+var a = 'YES INDEED'
+var b = 'I can\'t hear you!'
+var c = 'I love you, Grandma.'
+var d = 'I love you, too.'
 function sayHiToGrandma(string)
 {
   if(string === string.toUpperCase)  return '"YES INDEED!"'

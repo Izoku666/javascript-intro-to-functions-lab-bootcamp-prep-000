@@ -7,12 +7,18 @@ function whisper(string){
 }
 
 
-var a = 'YES INDEED!'
-var b = 'I can\'t hear you!'
-var c = 'I love you, Grandma.'
-var d = 'I love you, too.'
+
 function sayHiToGrandma(string)
 {
+  var a = 'YES INDEED!'
+  var b = 'I can\'t hear you!'
+  var c = 'I love you, Grandma.'
+  var d = 'I love you, too.'
+  
+  var uC = "HELLO!"
+  var lc = "hello!"
+  var mixedCase = 'Hi there!'
+  
   if(string === string.toUpperCase)  return a
   else if(string === string.toLowerCase)  return b
   else if(string === c) return d

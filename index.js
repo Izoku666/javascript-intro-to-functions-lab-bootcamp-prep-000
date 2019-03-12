@@ -26,6 +26,9 @@ function sayHiToGrandma(string)
 function logShout(string)
 {
   var newString = string.toUpperCase
+  
+  const spy;
+  
   console.log(newString)
 }
 

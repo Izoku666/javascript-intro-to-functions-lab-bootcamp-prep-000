@@ -8,7 +8,7 @@ function whisper(string){
 
 function sayHiToGrandma(string)
 {
-  var uppercase = "HELLO!"
-  uppercase.toUpperCase() === uppercase
   
 }
+
+function logShout()

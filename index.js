@@ -34,8 +34,6 @@ function logShout(string)
 function logWhisper(string)
 {
   console.log(string.toLowerCase)
-  return string.toLowerCase
-  //return console.log(string.toLowerCase)
 }
 
 shout(hello)

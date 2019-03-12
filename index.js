@@ -17,7 +17,6 @@ function sayHiToGrandma(string)
   
   var uC = "HELLO!"
   var lC = "hello!"
-  var mC = 'Hi there!'
   
   if(string === uC)  return a
   else if(string === lC)  return b
